@@ -1,3 +1,17 @@
+# End-to-End Data Engineering with Apache Spark, Azure Databricks, and DBT
+
+In this project, we set up an end-to-end data engineering pipeline using **Apache Spark**, **Azure Databricks**, and **Data Build Tool (DBT)** with **Azure** as our cloud provider. 
+
+This project illustrates the process of:
+- Data ingestion into a **Lakehouse**,
+- Data integration using **Azure Data Factory (ADF)**,
+- Data transformation with **Azure Databricks** and **DBT**.
+
+
+### System Architecture
+![My Image][System Architecture.jpeh]
+
+
 Welcome to your new dbt project!
 
 ### Using the starter project
