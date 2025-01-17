@@ -9,7 +9,7 @@ This project illustrates the process of:
 
 
 ### System Architecture
-![System Architecture](/System Architecture.jpeg)
+![System Architecture](/System%20Architecture.jpeg)
 
 Welcome to your new dbt project!
 
