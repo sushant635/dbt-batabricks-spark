@@ -9,8 +9,7 @@ This project illustrates the process of:
 
 
 ### System Architecture
-![My Image][System Architecture.jpeh]
-
+![Project Diagram](System Architecture.jpeg)
 
 Welcome to your new dbt project!
 
